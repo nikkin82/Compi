@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#087f00+0,398235+49,60b524+49,4bb500+71,087f00+100 */
+background:url("../img/900.jpg");  background-attachment: fixed;
+
+
+
+
+box-shadow:px 0px 0px 0px  white inset;
+/*background:url(pics/sw.png);
+
+background:url(pics/Desktop%20Screenshot%202018.07.17%20-%2020.34.00.72.png);*/
+background-position:top;
+height:757px;
+	margin:0px;
+}
+
+
+
+															/* LOGIN */
+													
+													
+
+#login-wrapper{
+ display:inline-block;	margin-left:38%;padding:30px;background:#E4E4E4;border-radius:8px;overflow:hidden;
+ box-shadow:0px 0px 0px 2px white inset, 0px 0px 0px 4px lightgrey inset, 0px 0px 8px 0px  #01487C ;border:1px solid #003D6F;margin-top:200px;height:auto;
+}
+
+#login-form{
+	margin-left:; position:;display:inline-block;line-height:9px;
+}
+.user, .pass{
+ height:25px; float:; position:;display:inline-block;margin-left:20px;width:250px;margin-right:16px;margin-bottom:20px;padding:6px;border:1px solid #31A4E4;
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#efefef+0,f7f7f7+49,efefef+100 */
+background: rgb(239,239,239); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(239,239,239,1) 0%, rgba(247,247,247,1) 49%, rgba(239,239,239,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(239,239,239,1) 0%,rgba(247,247,247,1) 49%,rgba(239,239,239,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(239,239,239,1) 0%,rgba(247,247,247,1) 49%,rgba(239,239,239,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efefef', endColorstr='#efefef',GradientType=0 ); /* IE6-9 */
+
+border-radius:4px;outline:none;padding-left:38px;	font-size:12px;
+}
+
+.user-image{
+	width:23px; height:25px;position:absolute;margin-left:30px;margin-top:8px;
+}
+.pass-image{
+	width:2.1%; height:;position:absolute;margin-left:22px;margin-top:5px;
+}
+#eye{margin-left: 56%;position: absolute;margin-top: 1%;z-index: 3;cursor: pointer;}
+
+.login-submit{
+	float:left; position:;clear:both;width:115px; height:34px;background:#48A1EB;color:white;text-align:center;padding:5px;
+	border:0px solid #0063A2;font-size:13px;border-radius:5px;margin-left:20px;cursor:pointer;letter-spacing:0.4px;
+}
+.login-submit:hover {
+	border:1px solid #005A93;}
+.login-a:hover{
+	box-shadow:0px 0px 0px 1px #C46D00;
+}
+#login-form span{
+width:; font-size:11px;margin:3px 0px 20px 0px;display:inline-block;
+}
+.login-h1{
+margin-left:;text-align:center;display:block; margin-bottom:10px;	font-family:"BPG paata new caps regular";
+background: -moz-linear-gradient(top,  #7abcff 0%, #60abf8 44%, #4096ee 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #7abcff 0%,#60abf8 44%,#4096ee 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #7abcff 0%,#60abf8 44%,#4096ee 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7abcff', endColorstr='#4096ee',GradientType=0 ); /* IE6-9 */
+margin:-30px -30px 30px -30px;
+font-size:20px;padding:20px 20px 15px 20px;color:white;border-bottom:1px solid #2E6888;box-shadow:0px 1px 0px 0px white;letter-spacing:0.3px; font-weight:200;
+}
+
+
+
+#forma{
+	background:white;display:inline-block; position:absolute;padding:12px 20px 20px 20px;margin-top:200px;margin-left:-430px;
+	box-shadow:0px 0px 204px 104px #004A6E;border:6px solid #0096D5; border-radius:10px;
+}
+#forma input[type="text"]{
+width:300px;height:34px; border-radius:5px; outline:none;border:1px solid lightgrey;background:#E5E5E5; padding-left:8px;	
+}
+#forma input[type="submit"]{
+width:100px;height:38px; cursor:pointer;	border:1px solid lightgrey;margin-bottom:-5px;
+}
+.check-span{
+margin-top:-14px;display:inline-block;background:;position:;
+}
+.login-a{
+width:130px; height:10px;background:#008080; color:white;text-align:center;padding:12px 20px;float:right;letter-spacing:0.4px;
+	border:0px solid #0063A2;font-size:13px;border-radius:5px; margin-right:18px;text-decoration:none;margin-top:px; display:inline-block;
+}
+.passrecovery{
+	font-size:11px;margin-left:50px;color:black;
+}
+.check-box{
+	float:left;margin-left:20px;margin-top:0px;border:1px solid blue; outline:none;
+}
+.close{
+display:inline-block; background:#1E92DC;color:white;padding:6px;position:absolute;	margin-top:-64px;border-radius:4px;cursor:pointer;
+margin-left:-8px;box-shadow:0px 0px 4px 2px #105B84;width:20px;text-align:center;
+}
+#forma h1{
+	padding:0px 0px 12px 4px;margin:0px;font-size:18px;text-align:left;color:grey;
+}
+
+
+																	/* REGISTRATION */
+																	
+																	
+																	
+																	
+#main-wrapper{
+	margin-left:0%;margin-top:0px;
+	padding:55px 48px 70px 40px;
+	border-top:0px solid #7EC798;
+	display:inline-block; 
+	width:40%;background: rgba(255,255,255,0.2);
+	border-radius:0px; overflow:hidden; /*box-shadow:0px 0px 12px 1px #185BAB;*/border-left:0px solid white;
+	border-right:0px solid white;border-bottom:0px solid white;border-style:double;background:rgba(0,0,0,0.3); 
+	backdrop-filter: blur(15px);height: 80%; position: sticky;
+}
+
+.head{
+margin:0px 0px 0px 0px; padding:12px 2px ; font-size:16px; text-align:center; 
+  font-family: 'bpg_nino_mtavruli_normal';
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0e0e0e+0,7d7e7d+49,0e0e0e+100 */
+background: rgba(0,0,0,0.4); backdrop-filter:blur(10px); display: flex; align-items: center; justify-content: center;
+border-bottom:0px solid #7EC798; box-shadow:0px 0px 0px 0px white, 0px 0px 0px 0px white;letter-spacing:0.8px; 
+border-radius:0px 0px 0px 0px;color:white;font-weight:100;background:; position: sticky; top: 0; z-index: 2;
+}
+#reg-form{
+	margin-top:10px;line-height:20px; 
+}
+#reg-form input[type="text"], #reg-form input[type="password"]{
+	margin:0px 0% 0px 0%; width:62%; height:36px; border-radius:2px 2px 2px 2px; border:0px solid grey; outline:none;padding-left:14px; 
+	/*box-shadow:0px 0px 2px 0px white ; */font-size:14px;color:grey;float:right;
+}
+#reg-form input[type="submit"]{
+width:65.8%; margin:0px 5% 16px 35%; height:40px;cursor:pointer; border:0px solid lightgreen; border-radius:2px; 
+float:left;
+background:#007EAB;
+color:white;	font-size:13px; letter-spacing:0.9px;/*box-shadow:0px 0px 1px 1px #4C9EEB inset, 0px 2px 1px 0px #64C1EF inset;*/
+font-family:"BPG Arial";font-weight:400;
+}
+#main-wrapper a{
+font-size:13px; margin:0px 0%; text-decoration:none;text-align:center;color:white;display:inline-block;width:24.5%;	
+padding:10px 12px 10px 12px;margin-top:11px; border-radius:0px;border:0px solid white;letter-spacing:0.4px;
+font-family:"BPG Arial";float:right; height:15px;
+background:#007EAB;
+
+}
+/*192 168 100 1*/
+#reg-form mark{
+	background:none;margin-top:0px;display:inline-block;margin-bottom:25px;float:;margin-left:;font-family:"BPG Arial";
+	font-size:12px;border:0px solid black;color:white;font-style:; letter-spacing:0.9px;font-weight:400;height:;
+}
+#reg-form hr{
+border:0px solid white;	outline:0px solid black;height:2px;padding:none;margin:none;display:;background:rgba(255,255,255,0.3);margin-top:4px;
+border-radius:5px; 
+}
+
+#reg-form input[type="text"]:hover, #reg-form input[type="password"]:hover{
+	box-shadow:0px 0px 5px 1px darkgreen;	transition:0.2s;
+	}
+#reg-form input[type="submit"]:hover, #main-wrapper a:hover{
+	box-shadow: 0px 0px 5px 1px darkgreen; transition:0.2s;
+}
+.checkbox{
+	margin-left:31%;margin-top:-6px;margin-bottom:;float:;padding:0px;position:absolute;
+}
+.error{
+	color:white;margin-left:35.6%;font-size:11.5px;padding-bottom:-10px;font-family:"BPG Arial";
+	padding-top:10px;border:0px solid white;margin-bottom:-20px;position:;letter-spacing:0.6px;
+	}
+	
+.checkspan{
+	color:white;background:none;font-size:11.5px;display:block;margin-top:-10px;margin-left:38.5%;height:;font-family:"BPG Arial";
+	letter-spacing:0.6px;float:;position:;font-weight:100;border:0px solid black;padding-top:0px;margin-bottom:-14px;
+}
+
+.str{
+font-size:12px; margin:16px 1% 18px 37px; display:inline-block; height:10px; letter-spacing:0.6px; 
+	float:right; color:red;	width:600px;font-weight:100; font-family:"BPG Arial";
+}
+
+
+
+
+
